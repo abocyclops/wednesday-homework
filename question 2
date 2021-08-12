@@ -1,0 +1,12 @@
+#!/usr/bin/enc python3
+def main():
+#create strings for function
+
+#start script
+    bluestuff = "the last time I was in a porta-potty."
+    string1 = "I was at a football game"
+    string2 = "It was disgusting obviously"
+
+    print(string1 + bluestuff + string2)
+
+main()
